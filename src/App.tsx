@@ -11,7 +11,7 @@ import Maincontent from './components/maincontent';
 import FormValidation from './components/formValidation';
 import Counter from './components/counter';
 import Tabledata from './tabledata';
-import New_Form from './form';
+import New_Form from './myform';
 import ChildA from './components/childA';
 import Loader from './loader';
 
